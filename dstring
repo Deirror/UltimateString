@@ -221,6 +221,8 @@ public:
 
 		}
 
+                other._length = _length; 
+
 		string_copy(other._data, _buff);
 
 		return dis;
