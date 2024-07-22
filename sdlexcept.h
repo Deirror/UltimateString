@@ -1,7 +1,7 @@
 #pragma once
 
-#include <specdefvals_core>
-#include <specfuncs_core>
+#include <specdefvals_core.h>
+#include <specfuncs_core.h>
 
 _SDL_BEGIN
 

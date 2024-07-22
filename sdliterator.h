@@ -1,6 +1,6 @@
 #pragma once
 
-#include <specdefvals_core>
+#include <specdefvals_core.h>
 
 template<typename T>
 class sdl_iterator {
