@@ -1,11 +1,11 @@
 #pragma once
 
-#include <specdefvals_core>
-#include <specfuncs_core>
-#include <sdliterator>
-#include <sdlexcept>
-#include <sdlios>
-#include <compr>
+#include <specdefvals_core.h>
+#include <specfuncs_core.h>
+#include <sdliterator.h>
+#include <sdlexcept.h>
+#include <sdlios.h>
+#include <compr.h>
 
 /*
 DEIRROR'S STRING -> dstring
