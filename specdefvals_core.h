@@ -1,7 +1,7 @@
 #pragma once
 
 /*
-SPECIAL DEIRROR'S LIBRARY -> SDL
+SPECIAL DEIRROR'S LAB -> SDL
 */
 
 #define _SDL_BEGIN \
