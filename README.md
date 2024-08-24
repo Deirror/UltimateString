@@ -1,6 +1,6 @@
 # ultimate_string
 
-(Special Deirror's Library -> SDL)
+(Special Deirror's Lab -> SDL)
 
 //Included in DCL
 
