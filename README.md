@@ -1,4 +1,4 @@
-# Ultimate String
+# ultimate_string
 
 (Special Deirror's Lab -> SDL)
 
